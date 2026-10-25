@@ -4,7 +4,7 @@ MALSATA
 
 ## Contents
 
-- [Project Name](#project-MALSATA)
+- [Project Malsata](#project-malsata)
   - [Contents](#contents)
   - [Short description](#short-description)
     - [What's the problem?](#whats-the-problem)
