@@ -1,4 +1,4 @@
-# Project Name
+# Project MALSATA
 MALSATA
 ![Logo](./images/logo.png)
 
